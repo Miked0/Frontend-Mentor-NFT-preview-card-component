@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend-Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel Preview](https://your-live-site-url.com)
+- Solution URL: [Frontend-Mentor](https://www.frontendmentor.io/solutions/frontend-mentor-nft-preview-card-component-responsive-with-flexbox-Xes2xad8uC)
+- Live Site URL: [Vercel Preview](https://frontend-mentor-nft-preview-card-component-one.vercel.app/)
 
 ### Built with
 
