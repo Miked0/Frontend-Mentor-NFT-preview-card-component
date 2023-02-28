@@ -49,7 +49,7 @@ I've learned how to create a overlay with CSSS properties. I've also created a r
 ## Author
 
 - Website - [Miked0](https://www.github.com/Miked0)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Miked0)
+- Frontend Mentor - [@Miked0](https://www.frontendmentor.io/profile/Miked0)
 
 
 ## Acknowledgments
